@@ -1,0 +1,4 @@
+pretrainedmodels
+torch
+torchvision
+tqdm
